@@ -10,4 +10,5 @@ public class DsVendasApplication {
 		SpringApplication.run(DsVendasApplication.class, args);
 	}
 
+
 }
